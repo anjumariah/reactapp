@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.6914af5c.css",
+    "main.js": "/reactapp/static/js/main.5f73d8c0.js",
+    "static/media/hospital-5.jpg": "/reactapp/static/media/hospital-5.8a9c447265158c5d8662.jpg",
+    "static/media/hospital-6.jpg": "/reactapp/static/media/hospital-6.3966e2def58a92b495d5.jpg",
+    "static/media/hospital-3.jpg": "/reactapp/static/media/hospital-3.53ea5c5674560648b221.jpg",
+    "static/media/hospital-7.jpg": "/reactapp/static/media/hospital-7.ef968398b6c2e24f5be7.jpg",
+    "static/media/hospital-4.jpg": "/reactapp/static/media/hospital-4.7c03a43f37cfda2d9ac3.jpg",
+    "static/media/hospital-1.jpg": "/reactapp/static/media/hospital-1.906c6b7f34d885c365a4.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.6914af5c.css.map": "/reactapp/static/css/main.6914af5c.css.map",
+    "main.5f73d8c0.js.map": "/reactapp/static/js/main.5f73d8c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6914af5c.css",
+    "static/js/main.5f73d8c0.js"
+  ]
+}
